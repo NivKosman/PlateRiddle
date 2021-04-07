@@ -1,0 +1,6 @@
+C:\Users\nivko\Desktop\חיפוש עבודה\Envitech\PlateRiddle\PlateRiddle\bin\Debug\PlateRiddle.exe.config
+C:\Users\nivko\Desktop\חיפוש עבודה\Envitech\PlateRiddle\PlateRiddle\bin\Debug\PlateRiddle.exe
+C:\Users\nivko\Desktop\חיפוש עבודה\Envitech\PlateRiddle\PlateRiddle\bin\Debug\PlateRiddle.pdb
+C:\Users\nivko\Desktop\חיפוש עבודה\Envitech\PlateRiddle\PlateRiddle\obj\Debug\PlateRiddle.csprojResolveAssemblyReference.cache
+C:\Users\nivko\Desktop\חיפוש עבודה\Envitech\PlateRiddle\PlateRiddle\obj\Debug\PlateRiddle.exe
+C:\Users\nivko\Desktop\חיפוש עבודה\Envitech\PlateRiddle\PlateRiddle\obj\Debug\PlateRiddle.pdb
